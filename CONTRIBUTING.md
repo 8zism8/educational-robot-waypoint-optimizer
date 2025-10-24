@@ -16,8 +16,8 @@ This project aims to:
 
 1. **Fork and clone the repository**
    ```bash
-   git clone https://github.com/yourusername/robot-path-planner.git
-   cd robot-path-planner
+   git clone https://github.com/8zism8/StudentShowcaseOct25.git
+   cd StudentShowcaseOct25
    ```
 
 2. **Create a virtual environment**

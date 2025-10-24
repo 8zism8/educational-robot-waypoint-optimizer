@@ -39,8 +39,8 @@ This is a production-level, educational GUI designed for teaching robotics path 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/robot-path-planner.git
-cd robot-path-planner
+git clone https://github.com/8zism8/StudentShowcaseOct25.git
+cd StudentShowcaseOct25
 
 # Install dependencies
 pip install -r requirements.txt
@@ -229,8 +229,8 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/robot-path-planner.git
-cd robot-path-planner
+git clone https://github.com/8zism8/StudentShowcaseOct25.git
+cd StudentShowcaseOct25
 
 # Create virtual environment
 python -m venv .venv
@@ -249,8 +249,8 @@ This project is licensed for educational use in robotics courses. See [LICENSE](
 
 ## 🙏 Acknowledgments
 
-- **Author**: [Your Name], PhD Student
-- **Lab**: [MoreLab](https://www.upei.ca/morelab), University of Prince Edward Island
+- **Author**: Soroush Izadan, PhD Student
+- **Lab**: [MoreLab](https://www.upei.ca/vet-med/research-facilities-services), University of Prince Edward Island
 - **Purpose**: Educational robotics path planning for student learning
 - **Built with**: PyQt5, NumPy, and SciPy
 - **Year**: 2025
@@ -258,7 +258,7 @@ This project is licensed for educational use in robotics courses. See [LICENSE](
 ## 📞 Support
 
 For issues, questions, or suggestions:
-- Open an [issue](https://github.com/yourusername/robot-path-planner/issues)
+- Open an [issue](https://github.com/8zism8/StudentShowcaseOct25/issues)
 - Check existing documentation in the `docs/` folder
 - Review test files in `tests/` for usage examples
 
