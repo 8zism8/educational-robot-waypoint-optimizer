@@ -18,15 +18,6 @@ This is a production-level, educational GUI designed for teaching robotics path 
 - **✅ Robust Validation**: Comprehensive path checking with clear, actionable error messages
 - **📊 Real-World Coordinates**: Automatic transformation from canvas (800×800px) to arena (2000×2000mm)
 
-## 📸 Screenshots
-
-```
-┌──────────────────────────────────────────────────────┐
-│  Mission Selector    │    Drawing Canvas             │
-│  Robot Buttons       │    800×800 pixels             │
-│  Control Panel       │    Interactive Grid           │
-└──────────────────────────────────────────────────────┘
-```
 
 ## 🚀 Quick Start
 
